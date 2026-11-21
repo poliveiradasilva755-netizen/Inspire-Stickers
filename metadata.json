@@ -1,0 +1,6 @@
+{
+  "name": "Inspire Stickers",
+  "description": "Biblioteca de stickers em PNG transparente para Stories do Instagram. Copie com um toque no iPhone e Android ou baixe em alta resolução.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
